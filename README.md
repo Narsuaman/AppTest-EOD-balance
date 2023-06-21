@@ -22,7 +22,7 @@ Working code
 
 ![image](https://github.com/Narsuaman/AppTest-EOD-balance/assets/137115409/b729998e-0547-4940-a9a1-ee25b3438ee9)
 
-2. I had to create a seperate callable method to get values of TotalDebit, TotalCredit and EndOfDayBalance![image](https://github.com/Narsuaman/AppTest-EOD-balance/assets/137115409/c3c3a3b3-5bdf-4793-8839-735c2cb5c7ee)
+2. I had to create a seperate callable CONSTRUCTOR to get values of TotalDebit, TotalCredit and EndOfDayBalance![image](https://github.com/Narsuaman/AppTest-EOD-balance/assets/137115409/c3c3a3b3-5bdf-4793-8839-735c2cb5c7ee)
 
 3. All the above variables needed to be decimal struct type as conversion was not possible based on the errors in VS
 ![image](https://github.com/Narsuaman/AppTest-EOD-balance/assets/137115409/22d4426a-f9b9-4b4d-82a5-7732258b48af)
